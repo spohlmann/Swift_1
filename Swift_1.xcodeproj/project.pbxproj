@@ -48,6 +48,7 @@
 		85A12B381D8DD84300D9AF3A /* Swift_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_1UITests.swift; sourceTree = "<group>"; };
 		85A12B3A1D8DD84300D9AF3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85A12B461D8DE2D300D9AF3A /* reto1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = reto1.playground; sourceTree = "<group>"; };
+		85A12B471D8DE32E00D9AF3A /* Primer_Ejercicio_Coursera.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Primer_Ejercicio_Coursera.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		85A12B0C1D8DD84300D9AF3A = {
 			isa = PBXGroup;
 			children = (
+				85A12B471D8DE32E00D9AF3A /* Primer_Ejercicio_Coursera.playground */,
 				85A12B171D8DD84300D9AF3A /* Swift_1 */,
 				85A12B2C1D8DD84300D9AF3A /* Swift_1Tests */,
 				85A12B371D8DD84300D9AF3A /* Swift_1UITests */,
