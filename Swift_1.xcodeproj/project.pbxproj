@@ -47,6 +47,7 @@
 		85A12B341D8DD84300D9AF3A /* Swift_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Swift_1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85A12B381D8DD84300D9AF3A /* Swift_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_1UITests.swift; sourceTree = "<group>"; };
 		85A12B3A1D8DD84300D9AF3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85A12B461D8DE2D300D9AF3A /* reto1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = reto1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				85A12B181D8DD84300D9AF3A /* AppDelegate.swift */,
+				85A12B461D8DE2D300D9AF3A /* reto1.playground */,
 				85A12B1A1D8DD84300D9AF3A /* ViewController.swift */,
 				85A12B1C1D8DD84300D9AF3A /* Main.storyboard */,
 				85A12B1F1D8DD84300D9AF3A /* Assets.xcassets */,
@@ -484,6 +486,7 @@
 				85A12B3F1D8DD84300D9AF3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85A12B401D8DD84300D9AF3A /* Build configuration list for PBXNativeTarget "Swift_1Tests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				85A12B421D8DD84300D9AF3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85A12B431D8DD84300D9AF3A /* Build configuration list for PBXNativeTarget "Swift_1UITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				85A12B451D8DD84300D9AF3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
